@@ -52,4 +52,5 @@
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jluckmay&theme=dracula&utcOffset=-3" alt="Productive Time" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jluckmay&theme=dracula" alt="GitHub Streak" height="170" />
 </p>
