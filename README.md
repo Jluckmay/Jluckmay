@@ -35,6 +35,20 @@
 - **Interests:** Complex Algorithms, DFS, Data Compression, and Financial Investments.
 - **Soft Skills:** Communicative, friendly, and collaborative.
 
+### 🎓 Academic Profile / Perfil Acadêmico
+
+<p align="left">
+  <a href="http://lattes.cnpq.br/7395864900833083" target="blank">
+    <img src="https://img.shields.io/badge/Lattes-004A80?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Lattes" height="28" />
+  </a>
+  <a href="https://orcid.org/0009-0001-0178-4877" target="blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" height="28" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=TULpQMUAAAAJ&hl=pt-BR" target="blank">
+    <img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" height="28" />
+  </a>
+</p>
+
 ### 🤝 Connect with me / Conecte-se comigo
 
 <a href="https://linkedin.com/in/jluckmay" target="blank">
