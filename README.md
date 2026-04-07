@@ -46,6 +46,8 @@
 ### 📊 Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jluckmay&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jluckmay&layout=compact&theme=dracula&hide_border=false" alt="Top Langs" height="170" />
+  <img src="https://github-readme-stats-two-no-border.vercel.app/api?username=jluckmay&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jluckmay&theme=dracula" alt="GitHub Streak" height="170" />
 </p>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jluckmay&theme=dracula" alt="Top Langs" />
