@@ -44,7 +44,7 @@
 ---
 
 ### 📊 Stats
-<p align="left">
+<p align="center">
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jluckmay&theme=dracula" alt="GitHub Streak" height="170" />
 </p>
