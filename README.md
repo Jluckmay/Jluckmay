@@ -36,13 +36,16 @@
 - **Soft Skills:** Communicative, friendly, and collaborative.
 
 ### 🤝 Connect with me / Conecte-se comigo
-<p align="left">
-  <a href="https://linkedin.com/in/jluckmay" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin João Lucas" height="30" width="40" />
-  </a>
-</p>
+
+<a href="https://linkedin.com/in/jluckmay" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin João Lucas" />
+</a>
+
+---
 
 ### 📊 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jluckmay&show_icons=true&theme=dracula)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jluckmay&layout=compact&count_private=true&theme=dracula" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jluckmay&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jluckmay&layout=compact&theme=dracula&hide_border=false" alt="Top Langs" height="170" />
+</p>
