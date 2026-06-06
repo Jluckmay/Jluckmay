@@ -30,36 +30,9 @@
 
 ---
 
-### 🛠️ Tech Stack & Skills
-- **Languages:** C, C++, Java, Python.
-- **Interests:** Complex Algorithms, DFS, Data Compression, and Financial Investments.
-- **Soft Skills:** Communicative, friendly, and collaborative.
+<h3 align="center">📊 Stats</h3>
 
-### 🎓 Academic Profile / Perfil Acadêmico
-
-<p align="left">
-  <a href="http://lattes.cnpq.br/7395864900833083" target="blank">
-    <img src="https://img.shields.io/badge/Lattes-004A80?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Lattes" height="28" />
-  </a>
-  <a href="https://orcid.org/0009-0001-0178-4877" target="blank">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" height="28" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=TULpQMUAAAAJ&hl=pt-BR" target="blank">
-    <img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" height="28" />
-  </a>
-</p>
-
-### 🤝 Connect with me / Conecte-se comigo
-
-<a href="https://linkedin.com/in/jluckmay" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin João Lucas" />
-</a>
-
----
-
-### 📊 Stats
 <p align="center">
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jluckmay&theme=dracula" alt="GitHub Streak" height="170" />
 </p>
 
@@ -69,3 +42,67 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jluckmay&theme=dracula&utcOffset=-3" alt="Productive Time" height="150" />
 </p>
 
+###
+
+<h3 align="left">🛠️ Tech Stack & Skills</h3>
+
+###
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<br>
+<p align="left">
+  <strong>Interests:</strong> Complex Algorithms, DFS, Data Compression, and Financial Investments.<br>
+  <strong>Soft Skills:</strong> Communicative, friendly, and collaborative.
+</p>
+
+###
+
+<h3 align="left">🎓 Academic Profile / Perfil Acadêmico</h3>
+
+###
+
+<div align="left">
+  <a href="http://lattes.cnpq.br/7395864900833083" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Lattes&logo=google-scholar&label=&color=004A80&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Lattes" />
+  </a>
+  <a href="https://orcid.org/0009-0001-0178-4877" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=ORCID&logo=orcid&label=&color=A6CE39&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ORCID" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=TULpQMUAAAAJ&hl=pt-BR" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Scholar&logo=google-scholar&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Google Scholar" />
+  </a>
+</div>
+
+###
+
+<h3 align="left">🤝 Connect with me / Conecte-se comigo</h3>
+
+###
+
+<div align="left">
+  <a href="mailto:SEU_EMAIL_AQUI@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://linkedin.com/in/jluckmay" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Linkedin João Lucas" />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jluckmay/jluckmay/output/snake.svg" alt="Snake animation" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/jluckmay/count.svg?" alt="Profile counter" />
+</div>
