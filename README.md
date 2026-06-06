@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Lucas (Lucas Mayrinck)</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jluckmay" alt="Profile views" />
-</p>
-
 <h3 align="center">
   Mestrando em Ciência da Computação na UFMG | Computer Science MSc Student at UFMG
 </h3>
@@ -85,7 +81,7 @@
 ###
 
 <div align="left">
-  <a href="mailto:SEU_EMAIL_AQUI@gmail.com" target="_blank">
+  <a href="mailto:joao-d@ufmg.br" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://linkedin.com/in/jluckmay" target="_blank">
@@ -98,11 +94,15 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jluckmay/jluckmay/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jluckmay/jluckmay/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jluckmay/jluckmay/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/jluckmay/jluckmay/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/jluckmay/count.svg?" alt="Profile counter" />
+  <img src="https://komarev.com/ghpvc/?username=jluckmay&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
