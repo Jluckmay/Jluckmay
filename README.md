@@ -72,13 +72,13 @@
 
 <br>
 <div align="center">
-  <strong>Interests:</strong><br>
+  <h3><strong>Interests</strong></h3><br>
   <img src="https://img.shields.io/static/v1?message=Complex%20Algorithms&label=&color=2C3E50&style=for-the-badge" alt="Complex Algorithms" />
   <img src="https://img.shields.io/static/v1?message=DFS&label=&color=2C3E50&style=for-the-badge" alt="DFS" />
   <img src="https://img.shields.io/static/v1?message=Data%20Compression&label=&color=2C3E50&style=for-the-badge" alt="Data Compression" />
   <img src="https://img.shields.io/static/v1?message=Financial%20Investments&label=&color=118C4F&style=for-the-badge" alt="Financial Investments" />
   <br><br>
-  <strong>Soft Skills:</strong><br>
+  <h3><strong>Soft Skills</strong></h3><br>
   <img src="https://img.shields.io/static/v1?message=Communicative&label=&color=E67E22&style=for-the-badge" alt="Communicative" />
   <img src="https://img.shields.io/static/v1?message=Friendly&label=&color=E67E22&style=for-the-badge" alt="Friendly" />
   <img src="https://img.shields.io/static/v1?message=Collaborative&label=&color=E67E22&style=for-the-badge" alt="Collaborative" />
