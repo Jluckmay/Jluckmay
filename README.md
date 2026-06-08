@@ -75,11 +75,12 @@
   <h3><strong>Interests</strong></h3><br>
   <img src="https://img.shields.io/static/v1?message=Complex%20Algorithms&label=&color=2C3E50&style=for-the-badge" alt="Complex Algorithms" />
   <img src="https://img.shields.io/static/v1?message=Data%20Compression&label=&color=2C3E50&style=for-the-badge" alt="Data Compression" />
-  <img src="https://img.shields.io/static/v1?message=Financial%20Investments&label=&color=118C4F&style=for-the-badge" alt="Financial Investments" />
-  <img src="https://img.shields.io/static/v1?message=UI%20Design&label=&color=2C3E50&style=for-the-badge" alt="UI Design" />
+  <img src="https://img.shields.io/static/v1?message=UX%20Design&label=&color=2C3E50&style=for-the-badge" alt="UX Design" />
   <img src="https://img.shields.io/static/v1?message=Network%20Security&label=&color=2C3E50&style=for-the-badge" alt="Network Security" />
   <img src="https://img.shields.io/static/v1?message=IoT&label=&color=2C3E50&style=for-the-badge" alt="IoT" />
   <img src="https://img.shields.io/static/v1?message=Serious%20Games&label=&color=2C3E50&style=for-the-badge" alt="Serious Games" />
+  <img src="https://img.shields.io/static/v1?message=Financial%20Investments&label=&color=118C4F&style=for-the-badge" alt="Financial Investments" />
+  
   <br><br>
   <h3><strong>Soft Skills</strong></h3><br>
   <img src="https://img.shields.io/static/v1?message=Communicative&label=&color=E67E22&style=for-the-badge" alt="Communicative" />
