@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm João Lucas (Lucas Mayrinck)</h1>
+<h1 align="center">Hi 👋, I'm João Lucas Mayrinck</h1>
 
 <h3 align="center">
   Mestrando em Ciência da Computação na UFMG | Computer Science MSc Student at UFMG
